@@ -21,7 +21,7 @@ export default function Hero() {
           style={{ fontFamily: "var(--font-playfair)", color: "#2D1B0E" }}
         >
           Every Recipe Tells a{" "}
-          <span style={{ color: "#E2725B" }}>Story</span>
+          <span className="animate-subtext-pulse" style={{ color: "#E2725B" }}>Story</span>
         </h1>
 
         {/* Subheadline */}
